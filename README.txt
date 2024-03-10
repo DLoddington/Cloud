@@ -1,0 +1,1 @@
+This assignement was to test our knowledge on cloud services by answering some questions on the topic and then getting us to deploy a programme in the cloud utilising a chosen cloud service provider.
